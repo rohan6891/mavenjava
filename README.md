@@ -1,7 +1,7 @@
 # mavenjava**
 made changes for hook demo
 maven asdasd
-go to eclipse
+go to eclipseasdfasdf
 Create a Maven Project - > File - > New -> Maven Project!
 Select the quickstart archetype under org.apache.maven.archetypes and click on Next! select artifacts click on ok
 Give Artifact ID of your choice and click Finish, Maven Project is created!
